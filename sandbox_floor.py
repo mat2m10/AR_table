@@ -7,6 +7,8 @@ LENGTH           = 90 * 0.0254   # ~2.2860 m
 DEPTH            = 0.10          # 10 cm slab
 NR_HOLES_LENGTH  = 15
 NR_HOLES_WIDTH   = 6
+WALL_THICKNESS = 0.08  # 8 cm
+WALL_HEIGHT    = 0.15  # 15 cm
 # 2 cm radius = 4 cm diameter
 # sized to fit: garden hose (~2cm dia), electrical cable (~1cm), arduino (~0.5cm)
 # with room for a rubber grommet/plug when not in use
