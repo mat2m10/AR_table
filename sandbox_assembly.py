@@ -3,8 +3,6 @@ import sys
 import os
 import importlib
 
-import scene_boards
-
 # --- Path setup (safe to repeat) ---
 scripts_dir = os.path.dirname(bpy.data.filepath)
 if scripts_dir not in sys.path:
